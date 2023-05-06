@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Runner.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 46.683 s <<< FAILURE! - in Runner.CucumberTestSuite
+Purchase.Purchase a product  Time elapsed: 45.647 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: 
+Step [completes the purchase process successfully] is defined with 3 parameters at 'StepsDefinitions.PurchaseDefinitions.PurchaseDefinitions.completePurchase(java.lang.String,java.lang.String,java.lang.String)'.
+However, the gherkin step has 0 arguments.
+Step text: completes the purchase process successfully
+

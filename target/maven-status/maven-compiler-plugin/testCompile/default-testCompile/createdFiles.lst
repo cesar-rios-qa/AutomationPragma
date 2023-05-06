@@ -1,0 +1,15 @@
+utils/CapturedMesaages.class
+Pages/BasePage.class
+Steps/ProductsSteps/ProductsSteps.class
+Pages/PurchasePage.class
+StepsDefinitions/PurchaseDefinitions/PurchaseDefinitions.class
+Runner/CucumberTestSuite.class
+StepsDefinitions/LoginDefinitions/LoginDefinitions.class
+StepsDefinitions/hooks/Hooks.class
+utils/AutomationException.class
+StepsDefinitions/ProductsDefinitions/ProductsDefinitions.class
+Pages/ProductsPage.class
+Pages/LoginPage.class
+utils/TestDataReader.class
+Steps/LoginSteps/LoginSteps.class
+Steps/PurchaseSteps/PurchaseSteps.class
